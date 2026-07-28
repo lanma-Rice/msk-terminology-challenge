@@ -90,7 +90,7 @@
         </ol>
 
         <div class="notice">
-          <p><strong>Privacy:</strong> Your answers and recordings stay in this browser session. Nothing is submitted to Canvas or uploaded to GitHub.</p>
+          <p><strong>Privacy:</strong> Your answers and recordings stay in this browser session. Nothing is submitted to Canvas.</p>
         </div>
 
         <div class="actions">
